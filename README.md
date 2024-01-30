@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi, I'm Muhammad Afif Ma'ruf 👋
+I'm Afif Maruf, a mobile and web developer enthusiast. I am a developer with a passion for exploring technology and a hobby of writing tech articles
 
-<!--
-**marufboy/marufboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afifmaruf/)
 
-Here are some ideas to get you started:
+## About me
+- 🔭 I'm currently learning on Mobile & Web Development on Swift and Flutter.
+- 📖 I'm currently write about Tech Stack in my [Medium Page](https://medium.com/@marufboy).
+- if you looking for collaborate you can contact through my social media or email.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=marufboy alt=marufboy /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marufboy&show_icons=true&locale=en&layout=compact" alt="marufboy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marufboy&show_icons=true&locale=en" alt="marufboy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marufboy&" alt="marufboy" /></p>
