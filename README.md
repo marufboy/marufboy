@@ -4,7 +4,7 @@ I'm Afif Maruf, a mobile and web developer enthusiast. I am a developer with a p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afifmaruf/)
 
 ## About me
-- 🔭 I'm currently learning on Mobile & Web Development on Swift and Flutter.
+- 🔭 I'm currently learning on Mobile & Backend Development on Swift, Flutter & Javascript.
 - 📖 I'm currently write about Tech Stack in my [Medium Page](https://medium.com/@marufboy).
 - if you looking for collaborate you can contact through my social media or email.
 
